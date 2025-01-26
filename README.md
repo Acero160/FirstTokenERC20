@@ -1,4 +1,4 @@
-# ConquerERC20 - An ERC20 Token with Maximum Supply Control
+# ERC20 Token with Maximum Supply Control
 
 This repository contains a smart contract written in Solidity for an ERC20 token called **Dubai ERC20 (DXB)**. The token implements custom features such as a maximum supply limit, the ability to mint and burn tokens, and leverages OpenZeppelin libraries for enhanced security and reliability.
 
@@ -59,11 +59,5 @@ The contract is initialized with the following parameters:
 3. **Maximum Supply (`_maxSupply`)**:
    - Defines the total token supply limit and is immutable after deployment.
 
-## 🛠️ Usage
 
-### Prerequisites
 
-1. **Install Dependencies**:
-   Ensure you have [Node.js](https://nodejs.org/) and [Hardhat](https://hardhat.org/) installed.
-
-2. **Install OpenZeppelin**:
